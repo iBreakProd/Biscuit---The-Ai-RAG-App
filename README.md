@@ -2,6 +2,10 @@
 
 **Biscuit** is a chat-based AI backend that enables users to converse with a ReAct-style agent that understands their Google Drive. Users can connect their Drive, index their documents, and query them via Retrieval-Augmented Generation. The agent handles planning, tool selection, observation, and final answer generation in a streaming loop backed by Redis Streams and securely served over SSE.
 
+Built by [Harshit](https://www.hrsht.me).
+
+Project live at [Biscuit](https://biscuit.hrsht.me)
+
 ## 🎥 Demo Videos
 
 <a href="https://youtu.be/TjfJBwqrWIc" target="_blank">
