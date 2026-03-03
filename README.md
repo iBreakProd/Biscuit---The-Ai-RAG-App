@@ -5,19 +5,19 @@
 ## 🎥 Demo Videos
 
 <a href="https://youtu.be/TjfJBwqrWIc" target="_blank">
-  <img src="https://img.youtube.com/vi/TjfJBwqrWIc/maxresdefault.jpg" width="560" alt="Login Flow with Drive Sync">
+  <img width="1440" height="900" alt="Login Flow with Drive Sync" src="https://github.com/user-attachments/assets/14b1ca22-7425-42af-bed3-f4de8e680668" />
 </a>  
-<p><b>Login Flow with Drive Sync</b></p>
+<p><b>Login Flow with Drive Sync</b> <a href="https://youtu.be/TjfJBwqrWIc" target="_blank">Video ^^^</a></p>
 
 <a href="https://youtu.be/LYEhh0ZQyf0" target="_blank">
-  <img src="https://img.youtube.com/vi/LYEhh0ZQyf0/maxresdefault.jpg" width="560" alt="Drive Search Retrieval">
+  <img width="1440" height="900" alt="Drive Search Retrieval" src="https://github.com/user-attachments/assets/4c112cd4-c29d-4938-be7b-313c432dfa97" />
 </a>  
-<p><b>Drive Search Retrieval</b></p>
+<p><b>Drive Search Retrieval</b> <a href="https://youtu.be/LYEhh0ZQyf0" target="_blank">Video ^^^</a></p>
 
 <a href="https://youtu.be/4GTol962uBc" target="_blank">
-  <img src="https://img.youtube.com/vi/4GTol962uBc/maxresdefault.jpg" width="560" alt="Web Search and Scrape Retrieval">
+  <img width="1440" height="900" alt="Web Search and Scrape Retrieval" src="https://github.com/user-attachments/assets/bbf0cdf9-91dc-47c6-b389-131ed3451497" />
 </a>  
-<p><b>Web Search and Scrape Retrieval</b></p>
+<p><b>Web Search and Scrape Retrieval</b> <a href="https://youtu.be/4GTol962uBc" target="_blank">Video ^^^</a></p>
 
 
 
